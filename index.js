@@ -1,4 +1,4 @@
-const numero = 200
 
 
 
+console.log("hOla mundo")
